@@ -1,3 +1,5 @@
 .pio/
 sdkconfig
 sdkconfig.old
+sdkconfig.esp32_eth01
+sdkconfig.esp32_eth01.old
